@@ -1,5 +1,5 @@
 - interpreter
-- Git
+- [[Git]]
 - Github
 - SSH
 - Node
