@@ -5,3 +5,4 @@ Notes for Uni
 
 **quick links**
 - [[Glossary of terms]]
+- [[CLI commands]]
