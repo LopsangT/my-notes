@@ -1,0 +1,1 @@
+A high-level language is a more user-friendly programming language closer to a human-readable form. It abstracts low-level machine operations, making it easier for developers to write code. ^8d1b2f

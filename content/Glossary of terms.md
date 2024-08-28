@@ -1,5 +1,9 @@
-- interpreter
+- [[Compiler]]
+- [[Debugging]]
 - [[Git]]
-- Github
-- SSH
-- Node
+- [[GitHub]]
+- [[High-Level Programming Language]]
+- [[Interpreter]]
+- [[Node.JS]]
+- [[Object-Oriented Programming (OOP)]]
+- [[SSH (Secure Shell)]]

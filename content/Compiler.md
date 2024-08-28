@@ -1,0 +1,1 @@
+A compiler is a software tool that translates source code written in a high-level programming language (like C, Java, or Python) into machine code or an intermediate form that a computer's processor can execute. This process involves parsing, analyzing, and optimizing the code to create an executable program. ^686e05
